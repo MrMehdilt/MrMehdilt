@@ -59,28 +59,6 @@ I've led dev teams, and today I build at the intersection of **code, education a
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MrMehdilt&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&include_all_commits=true&count_private=true" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MrMehdilt&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=57606a&icon_color=1f2328&include_all_commits=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrMehdilt&hide_border=true&background=00000000&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=30363d" />
-    <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=MrMehdilt&hide_border=true&background=00000000&ring=1f2328&fire=1f2328&currStreakLabel=1f2328&sideLabels=57606a&currStreakNum=1f2328&sideNums=1f2328&dates=57606a&stroke=d0d7de" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MrMehdilt&hide_border=true&bg_color=00000000&color=8b949e&line=e6edf3&point=e6edf3&area=true&area_color=30363d" />
-    <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MrMehdilt&hide_border=true&bg_color=00000000&color=57606a&line=1f2328&point=1f2328&area=true&area_color=d0d7de" />
-  </picture>
-</p>
-
----
-
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
