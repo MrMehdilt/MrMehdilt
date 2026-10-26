@@ -45,14 +45,14 @@ I've led dev teams, and today I build at the intersection of **code, education a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗺️ Rondonna</h4>
-      <p>A local tourism app to discover Algeria — mobile app, backend & back-office in one monorepo.</p>
-      <p><code>React Native</code> <code>Node.js</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h4>🎓 Code & Sens</h4>
       <p>Tech school & incubator in Algiers: web/mobile dev, cybersecurity, design, digital marketing, AI and management.</p>
       <p><code>Education</code> <code>Coworking</code> <code>Incubation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗺️ Rondonna</h4>
+      <p>A local tourism app to discover Algeria — mobile app, backend & back-office in one monorepo.</p>
+      <p><code>React Native</code> <code>Node.js</code> <code>MongoDB</code></p>
     </td>
   </tr>
 </table>
